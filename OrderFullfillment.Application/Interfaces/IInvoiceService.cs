@@ -10,5 +10,6 @@ namespace OrderFullfillment.Application.Interfaces
     public interface IInvoiceService : IServiceBase<InvoiceBase>
     {
         Task Sing(int orderId);
+        Task Export(int orderId);
     }
 }

@@ -13,5 +13,11 @@ namespace OrderFullfillment.Entity.Models.Invoice
         public string Customer { get; set; }
         public InvoiceOrder Order { get; set; }
         public abstract void Sing(int orderId);
+
+        public virtual void Export(int invoiceId)
+        {
+            Console.WriteLine($"Begin export for Invoice with id: {invoiceId}");
+            Console.WriteLine($"Exporting finished!");
+        }
     }
 }

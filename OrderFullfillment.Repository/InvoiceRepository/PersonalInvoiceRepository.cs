@@ -19,6 +19,7 @@ namespace OrderFullfillment.Repository.InvoiceRepository
                 Order = new InvoiceOrder
                 {
                     Id = 100,
+                    InvoiceId = 2,
                     Products = new List<OrderProduct>
                     {
                         new OrderProduct
@@ -35,6 +36,7 @@ namespace OrderFullfillment.Repository.InvoiceRepository
                 Order = new InvoiceOrder
                 {
                     Id = 101,
+                    InvoiceId = 2,
                     Products = new List<OrderProduct>
                     {
                         new OrderProduct

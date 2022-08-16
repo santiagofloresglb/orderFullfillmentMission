@@ -12,5 +12,11 @@ namespace OrderFullfillment.Entity.Models.Invoice
         {
             Console.WriteLine($"Singning order n°: {orderId} which belongs to a Company");
         }
+
+        public override void Export(int invoiceId)
+        {
+            Console.WriteLine($"Company invoice export for Invoice with id: {invoiceId}");
+            Console.WriteLine($"Exporting finished!");
+        }
     }
 }

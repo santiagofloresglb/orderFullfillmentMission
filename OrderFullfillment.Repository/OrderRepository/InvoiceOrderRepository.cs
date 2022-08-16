@@ -26,6 +26,51 @@ namespace OrderFullfillment.Repository.OrderRepository
                         Name = "Product 1"
                     }
                 }
+            },
+            new InvoiceOrder
+            {
+                Id = 2,
+                InvoiceId = 2,
+                Type = InvoiceOrder.OrderType.Personal,
+                Products = new List<OrderProduct>
+                {
+                    new OrderProduct
+                    {
+                        Id = 1,
+                        Price = 100,
+                        Name = "Product 1"
+                    }
+                }
+            },
+            new InvoiceOrder
+            {
+                Id = 3,
+                InvoiceId = 3,
+                Type = InvoiceOrder.OrderType.Company,
+                Products = new List<OrderProduct>
+                {
+                    new OrderProduct
+                    {
+                        Id = 1,
+                        Price = 100,
+                        Name = "Product 1"
+                    }
+                }
+            },
+            new InvoiceOrder
+            {
+                Id = 4,
+                InvoiceId = 4,
+                Type = InvoiceOrder.OrderType.Company,
+                Products = new List<OrderProduct>
+                {
+                    new OrderProduct
+                    {
+                        Id = 1,
+                        Price = 100,
+                        Name = "Product 1"
+                    }
+                }
             }
         };
 

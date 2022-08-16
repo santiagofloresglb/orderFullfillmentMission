@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OrderFullfillment.Application/1.0.0": {
+        "dependencies": {
+          "OrderFullfillment.Entity": "1.0.0",
+          "OrderFullfillment.Repository": "1.0.0"
+        },
+        "runtime": {
+          "OrderFullfillment.Application.dll": {}
+        }
+      },
+      "OrderFullfillment.Entity/1.0.0": {
+        "runtime": {
+          "OrderFullfillment.Entity.dll": {}
+        }
+      },
+      "OrderFullfillment.Repository/1.0.0": {
+        "dependencies": {
+          "OrderFullfillment.Entity": "1.0.0"
+        },
+        "runtime": {
+          "OrderFullfillment.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderFullfillment.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderFullfillment.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderFullfillment.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

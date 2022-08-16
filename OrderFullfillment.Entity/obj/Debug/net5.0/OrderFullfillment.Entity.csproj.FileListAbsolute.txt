@@ -1,0 +1,12 @@
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Entity\obj\Debug\net5.0\OrderFullfillment.Entity.csproj.AssemblyReference.cache
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Entity\obj\Debug\net5.0\OrderFullfillment.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Entity\obj\Debug\net5.0\OrderFullfillment.Entity.AssemblyInfoInputs.cache
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Entity\obj\Debug\net5.0\OrderFullfillment.Entity.AssemblyInfo.cs
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Entity\obj\Debug\net5.0\OrderFullfillment.Entity.csproj.CoreCompileInputs.cache
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Entity\bin\Debug\net5.0\OrderFullfillment.Entity.deps.json
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Entity\bin\Debug\net5.0\OrderFullfillment.Entity.dll
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Entity\bin\Debug\net5.0\OrderFullfillment.Entity.pdb
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Entity\obj\Debug\net5.0\OrderFullfillment.Entity.dll
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Entity\obj\Debug\net5.0\refint\OrderFullfillment.Entity.dll
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Entity\obj\Debug\net5.0\OrderFullfillment.Entity.pdb
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Entity\obj\Debug\net5.0\ref\OrderFullfillment.Entity.dll

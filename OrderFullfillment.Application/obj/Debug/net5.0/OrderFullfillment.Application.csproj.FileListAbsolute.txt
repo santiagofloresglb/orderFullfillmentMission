@@ -1,0 +1,17 @@
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Application\obj\Debug\net5.0\OrderFullfillment.Application.csproj.AssemblyReference.cache
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Application\obj\Debug\net5.0\OrderFullfillment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Application\obj\Debug\net5.0\OrderFullfillment.Application.AssemblyInfoInputs.cache
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Application\obj\Debug\net5.0\OrderFullfillment.Application.AssemblyInfo.cs
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Application\obj\Debug\net5.0\OrderFullfillment.Application.csproj.CoreCompileInputs.cache
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Application\bin\Debug\net5.0\OrderFullfillment.Application.deps.json
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Application\bin\Debug\net5.0\OrderFullfillment.Application.dll
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Application\bin\Debug\net5.0\OrderFullfillment.Application.pdb
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Application\bin\Debug\net5.0\OrderFullfillment.Entity.dll
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Application\bin\Debug\net5.0\OrderFullfillment.Repository.dll
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Application\bin\Debug\net5.0\OrderFullfillment.Entity.pdb
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Application\bin\Debug\net5.0\OrderFullfillment.Repository.pdb
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Application\obj\Debug\net5.0\OrderFullfillment.Application.csproj.CopyComplete
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Application\obj\Debug\net5.0\OrderFullfillment.Application.dll
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Application\obj\Debug\net5.0\refint\OrderFullfillment.Application.dll
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Application\obj\Debug\net5.0\OrderFullfillment.Application.pdb
+C:\Users\santiago.flores\source\repos\OrderFullfillment\OrderFullfillment.Application\obj\Debug\net5.0\ref\OrderFullfillment.Application.dll

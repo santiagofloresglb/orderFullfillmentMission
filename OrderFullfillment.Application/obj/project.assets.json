@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "OrderFullfillment.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/OrderFullfillment.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderFullfillment.Entity.dll": {}
+        }
+      },
+      "OrderFullfillment.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "OrderFullfillment.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OrderFullfillment.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderFullfillment.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderFullfillment.Entity/1.0.0": {
+      "type": "project",
+      "path": "../OrderFullfillment.Entity/OrderFullfillment.Entity.csproj",
+      "msbuildProject": "../OrderFullfillment.Entity/OrderFullfillment.Entity.csproj"
+    },
+    "OrderFullfillment.Repository/1.0.0": {
+      "type": "project",
+      "path": "../OrderFullfillment.Repository/OrderFullfillment.Repository.csproj",
+      "msbuildProject": "../OrderFullfillment.Repository/OrderFullfillment.Repository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "OrderFullfillment.Entity >= 1.0.0",
+      "OrderFullfillment.Repository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\santiago.flores\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\santiago.flores\\source\\repos\\OrderFullfillment\\OrderFullfillment.Application\\OrderFullfillment.Application.csproj",
+      "projectName": "OrderFullfillment.Application",
+      "projectPath": "C:\\Users\\santiago.flores\\source\\repos\\OrderFullfillment\\OrderFullfillment.Application\\OrderFullfillment.Application.csproj",
+      "packagesPath": "C:\\Users\\santiago.flores\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\santiago.flores\\source\\repos\\OrderFullfillment\\OrderFullfillment.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\santiago.flores\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/ypfvstspcjdev/YPF-PCJ/_packaging/ypf-pcj/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\santiago.flores\\source\\repos\\OrderFullfillment\\OrderFullfillment.Entity\\OrderFullfillment.Entity.csproj": {
+              "projectPath": "C:\\Users\\santiago.flores\\source\\repos\\OrderFullfillment\\OrderFullfillment.Entity\\OrderFullfillment.Entity.csproj"
+            },
+            "C:\\Users\\santiago.flores\\source\\repos\\OrderFullfillment\\OrderFullfillment.Repository\\OrderFullfillment.Repository.csproj": {
+              "projectPath": "C:\\Users\\santiago.flores\\source\\repos\\OrderFullfillment\\OrderFullfillment.Repository\\OrderFullfillment.Repository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
